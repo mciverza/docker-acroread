@@ -1,5 +1,12 @@
 # Adobe Acrobat (acroread)
 
+WORK IN PROGRESS, to convert this to an LXD container and then to an AppImage (see AppImage.org)
+
+Forked from chrisdaish/docker-acroread
+
+First edit 2016/12/14
+
+
 Unofficial build of Adobe Acrobat 9.5.5 running within a docker container and
 rendered by the local X Server.
 
